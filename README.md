@@ -1,16 +1,28 @@
-### Hi there 👋
+<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="100"> Hi, I'm Bryan Faraone!</h2>
+<img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
-<!--
-**bryanromeromtz/bryanromeromtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  A little more about me... 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import BryanFaraone from 'web-developer';
+
+class Bio extends BryanFaraone {
+  name     = 'Bryan Romero Mtz';
+  title    = 'Web Developer';
+  location = 'Guadalajara Jal, MEX';
+}
+
+class Skills extends BryanFaraone {
+  code: ['Javascript', 'HTML', 'CSS', 'Python'];
+  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
+  databases  = ['MySQL', 'MongoDB'];
+}
+```
+
+
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😁</em>
+
+---
+
+⭐️ From [@BryanFaraone](https://github.com/bryanromeromtz)
