@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="100"> Hi, I'm Bryan Faraone!</h2>
-<img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 ###  A little more about me... 
 
@@ -8,15 +8,15 @@
 import BryanFaraone from 'web-developer';
 
 class Bio extends BryanFaraone {
-  name     = 'Bryan Romero Mtz';
-  title    = 'Web Developer';
+  name = 'Bryan Romero Mtz';
+  title = 'Web Developer';
   location = 'Guadalajara Jal, MEX';
 }
 
 class Skills extends BryanFaraone {
-  code: ['Javascript', 'HTML', 'CSS', 'Python'];
-  tools: ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
-  databases  = ['MySQL', 'MongoDB'];
+  code = ['Javascript', 'HTML', 'CSS', 'Python'];
+  tools = ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
+  databases = ['MySQL', 'MongoDB'];
 }
 ```
 
