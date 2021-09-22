@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="100"> Hi, I'm Bryan Faraone!</h2>
+<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Faraone!</h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 
