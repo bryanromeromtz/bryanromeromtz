@@ -1,17 +1,17 @@
-<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Faraone!</h2>
+<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryant Faraone!</h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 
 ```js
-import BryanFaraone from 'web-developer';
+import BryantFaraone from 'web-developer';
 
-class Bio extends BryanFaraone {
+class Bio extends BryantFaraone {
   name = 'Bryan Romero Mtz';
   title = 'Web Developer';
   location = 'Guadalajara Jal, MEX';
 }
 
-class Skills extends BryanFaraone {
+class Skills extends BryantFaraone {
   code = ['Javascript', 'HTML', 'CSS', 'Python'];
   tools = ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
   databases = ['MySQL', 'MongoDB'];
@@ -23,4 +23,4 @@ class Skills extends BryanFaraone {
 
 ---
 
-⭐️ From [@BryanFaraone](https://github.com/bryanromeromtz)
+⭐️ From [@BryantFaraone](https://github.com/bryanromeromtz)
