@@ -3,15 +3,15 @@
 
 
 ```js
-import BryantFaraone from 'web-developer';
+import BryanMaceo from 'web-developer';
 
-class Bio extends BryantFaraone {
+class Bio extends BryanMaceo {
   name = 'Bryan Romero Mtz';
   title = 'Web Developer';
   location = 'Guadalajara Jal, MEX';
 }
 
-class Skills extends BryantFaraone {
+class Skills extends BryanMaceo {
   code = ['Javascript', 'HTML', 'CSS', 'Python'];
   tools = ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
   databases = ['MySQL', 'MongoDB'];
@@ -23,4 +23,4 @@ class Skills extends BryantFaraone {
 
 ---
 
-⭐️ From [@BryantFaraone](https://github.com/bryanromeromtz)
+⭐️ From [@BryanMaceo](https://github.com/bryanromeromtz)
