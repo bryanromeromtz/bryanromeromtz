@@ -13,7 +13,7 @@ class Bio extends BryanMazeo {
 
 class Skills extends BryanMazeo {
   code = ['Javascript', 'HTML', 'CSS', 'Python'];
-  tools = ['React', 'Redux', 'Node', 'Styled-Components', 'Bootstrap'];
+  tools = ['React', 'Redux', 'Node', 'Expres', 'Styled-Components', 'Bootstrap'];
   databases = ['MySQL', 'MongoDB'];
 }
 ```
