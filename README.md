@@ -8,12 +8,12 @@ import BryanMazeo from 'web-developer';
 class Bio extends BryanMazeo {
   name = 'Bryan Romero Mtz';
   title = 'Web Developer';
-  location = 'Guadalajara Jal, MEX';
+  location = 'Zapopan Jal, MEX';
 }
 
 class Skills extends BryanMazeo {
   code = ['Javascript', 'HTML', 'CSS', 'Python'];
-  tools = ['React', 'Redux', 'Node', 'Expres', 'Styled-Components', 'Bootstrap'];
+  tools = ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Bootstrap'];
   databases = ['MySQL', 'MongoDB'];
 }
 ```
