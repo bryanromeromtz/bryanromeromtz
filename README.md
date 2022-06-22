@@ -1,17 +1,17 @@
-<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Mazeo!</h2>
+<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Sepia!</h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 
 ```js
-import BryanMazeo from 'web-developer';
+import BryanSepia from 'web-developer';
 
-class Bio extends BryanMazeo {
+class Bio extends BryanSepia {
   name = 'Bryan Romero Mtz';
   title = 'Web Developer';
   location = 'Zapopan Jal, MEX';
 }
 
-class Skills extends BryanMazeo {
+class Skills extends BryanSepia {
   code = ['JavaScript', 'PHP', 'HTML', 'CSS', 'Python'];
   tools = ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Bootstrap'];
   databases = ['MySQL', 'MongoDB'];
@@ -23,4 +23,4 @@ class Skills extends BryanMazeo {
 
 ---
 
-⭐️ From [@BryanMazeo](https://github.com/bryanromeromtz)
+⭐️ From [@BryanSepia](https://github.com/bryanromeromtz)
