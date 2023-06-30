@@ -3,18 +3,18 @@
 
 
 ```js
-import BryanSepia from 'web-developer';
+import BryanSepia from 'web-dev';
 
 class Bio extends BryanSepia {
-  name = 'Bryan Romero Mtz';
-  title = 'Web Developer';
-  location = 'Zapopan Jal, MEX';
+  name   = 'Bryan Romero Mtz';
+  title  = 'Web Developer';
+  hoobie = 'cook';
 }
 
 class Skills extends BryanSepia {
-  code = ['JavaScript', 'PHP', 'HTML', 'CSS', 'Python'];
-  tools = ['React', 'Redux', 'Node', 'Express', 'Styled-Components', 'Bootstrap'];
-  databases = ['MySQL', 'MongoDB'];
+  code      = ['Typescript', 'PHP', 'Java', 'Python'];
+  tools     = ['React', 'Redux', 'Node', 'Express', 'Docker', 'Jenkins'];
+  databases = ['MySQL', 'MongoDB', 'PostgreSQL'];
 }
 ```
 
