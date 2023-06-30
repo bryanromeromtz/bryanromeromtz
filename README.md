@@ -23,4 +23,4 @@ class Skills extends BryanSepia {
 
 ---
 
-⭐️ From [@BryanSepia](https://github.com/bryanromeromtz)
+⭐️ From [@BryanSepia](http://bryansepia.me)
