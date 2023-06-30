@@ -8,7 +8,7 @@ import BryanSepia from 'web-dev';
 class Bio extends BryanSepia {
   name   = 'Bryan Romero Mtz';
   title  = 'Web Developer';
-  hoobie = 'cook';
+  hoobie = 'cook'; // I unleash my creativity in the kitchen!
 }
 
 class Skills extends BryanSepia {
@@ -19,7 +19,7 @@ class Skills extends BryanSepia {
 ```
 
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😁</em>
+<em><b>I'm not just cooking code, but also love connecting with different people.</b> So if you want to say <b>hi, I'll be thrilled to meet you!</b> 😁</em>
 
 ---
 
