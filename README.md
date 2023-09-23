@@ -5,7 +5,7 @@
 ```js
 public class GitHubProfile {
     public static void main(String[] args) {
-        Developer bryanRomeroMtz = new WebDeveloper("Bryan Romero Mtz", "Web Developer", "Cooking");
+        WebDeveloper bryanRomeroMtz = new WebDeveloper("Bryan Romero Mtz", "Web Developer", "Cooking");
         bryanRomeroMtz.displayBio();
 
         Skills bryanSkills = new Skills();
@@ -38,7 +38,7 @@ class Skills {
 
     public Skills() {
         this.code = new String[]{"Typescript", "PHP", "Java", "Python"};
-        this.tools = new String[]{"React", "Redux", "Node", "Express", "Docker", "Jenkins"};
+        this.tools = new String[]{"React", "Redux", "Node", "Express", "Docker", "Jenkins", "K8S"};
         this.databases = new String[]{"MySQL", "MongoDB", "PostgreSQL"};
     }
 
