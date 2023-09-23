@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Sepia!</h2>
+<h2><img src="https://media.giphy.com/media/l0Iy2u0RfcJ769kdi/giphy.gif" width="80"> Hi, I'm Bryan Madzilla!</h2>
 <img align='right' src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="250">
 
 
@@ -56,4 +56,4 @@ class Skills {
 
 ---
 
-⭐️ From [@BryanSepia](http://bryansepia.me)
+⭐️ From [@BryanMadzilla](http://bryansepia.me)
