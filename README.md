@@ -3,19 +3,52 @@
 
 
 ```js
-import BryanSepia from 'web-dev';
+public class GitHubProfile {
+    public static void main(String[] args) {
+        Developer bryanRomeroMtz = new WebDeveloper("Bryan Romero Mtz", "Web Developer", "Cooking");
+        bryanRomeroMtz.displayBio();
 
-class Bio extends BryanSepia {
-  name   = 'Bryan Romero Mtz';
-  title  = 'Web Developer';
-  hoobie = 'cook'; // I unleash my creativity in the kitchen!
+        Skills bryanSkills = new Skills();
+        bryanSkills.displaySkills();
+    }
 }
 
-class Skills extends BryanSepia {
-  code      = ['Typescript', 'PHP', 'Java', 'Python'];
-  tools     = ['React', 'Redux', 'Node', 'Express', 'Docker', 'Jenkins'];
-  databases = ['MySQL', 'MongoDB', 'PostgreSQL'];
+class WebDeveloper {
+    private String name;
+    private String title;
+    private String hobby;
+
+    public WebDeveloper(String name, String title, String hobby) {
+        this.name = name;
+        this.title = title;
+        this.hobby = hobby;
+    }
+
+    public void displayBio() {
+        System.out.println("Name: " + name);
+        System.out.println("Title: " + title);
+        System.out.println("Hobby: " + hobby);
+    }
 }
+
+class Skills {
+    private String[] code;
+    private String[] tools;
+    private String[] databases;
+
+    public Skills() {
+        this.code = new String[]{"Typescript", "PHP", "Java", "Python"};
+        this.tools = new String[]{"React", "Redux", "Node", "Express", "Docker", "Jenkins"};
+        this.databases = new String[]{"MySQL", "MongoDB", "PostgreSQL"};
+    }
+
+    public void displaySkills() {
+        System.out.println("Programming Languages: " + String.join(", ", code));
+        System.out.println("Development Tools: " + String.join(", ", tools));
+        System.out.println("Databases: " + String.join(", ", databases));
+    }
+}
+
 ```
 
 
